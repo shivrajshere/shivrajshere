@@ -3,7 +3,7 @@
 
 
 ---
-### Hola Amigo 👋
+SHivraj  👋
 ---
 
 I am **Shivraj Shere**, a **Mechanical Design Engineer**. I'm passionate about designing innovative solutions and always eager to learn new technologies in the field of mechanical engineering.
